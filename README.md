@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Rafael Pereira. Sou programador Junior <strong>Full stack</strong>.<br>
-  Sou técnico em Desenvolvimento de Sistemas (IFSC) e estou fazendo curso superior em <br>
+  Sou técnico em Desenvolvimento de Sistemas (IFSC) e estou fazendo curso superior em
   Análise e Desenvolvimento de Sistemas. Dentre as àres que trabalho, me destaco no <strong>front end</strong>.
 </p>
 
