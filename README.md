@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Angular, Java, C#, <br>
+  🦄 Skills: <strong>HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Angular, Java, C#,
   MSSQL, MySQL e SQLite.</strong>
 </p>
 
