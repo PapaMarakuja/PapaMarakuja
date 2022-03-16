@@ -7,12 +7,12 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Angular, Java, C#,
+  🧠 Skills: <strong>HTML, CSS, SCSS, Tailwind CSS, JavaScript, TypeScript, Angular, Java, C#,
   MSSQL, MySQL e SQLite.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode Studio, VSCode, WebStorm, Ryder e DataGrip.</strong>
+ 💻 Ferramentas: <strong>VSCode Studio, VSCode, WebStorm, Ryder e DataGrip.</strong>
 </p>
 
 <!-- <p align="left">
